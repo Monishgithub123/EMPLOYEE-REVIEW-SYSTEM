@@ -61,7 +61,7 @@ The Employee Review System provides a comprehensive solution for managing employ
 ### How to setup the project on local system
 
   1. Clone this project
-    
+    https://github.com/Monishgithub123/EMPLOYEE-REVIEW-SYSTEM.git
   2. Navigate to Project Directory.
       After reaching the project directory you have to run the following the command.
   3. install npm and all dependency `npm install`
